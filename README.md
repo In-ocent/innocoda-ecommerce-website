@@ -1,44 +1,13 @@
-# InnoCoda - An eCommerce Website
+---
+## **6️⃣ Deploy your project**
+- You can host frontend on **Netlify** or **Vercel** for free
+- Optional: later connect backend (Django) for products, cart, and checkout
+---
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
-
-## Demo
-
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
-
-## Installing Anon
-
-To install **Anon**, follow these steps:
-
-Linux and macOS:
+## **7️⃣ Push to your GitHub**
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git remote add origin https://github.com/YOURUSERNAME/innocoda-ecommerce.git
+git branch -M main
+git push -u origin main
 ```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
