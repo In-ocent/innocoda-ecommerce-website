@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# InnoCoda - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -17,7 +17,7 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 Before you begin, ensure you have met the following requirements:
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 ## Installing Anon
 
